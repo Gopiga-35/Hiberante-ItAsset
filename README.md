@@ -6,6 +6,8 @@ developed using Java, Hibernate ORM, and MySQL.
 The system allows basic asset operations such as adding, checking out, 
 and deleting IT assets from the database.
 
+
+
 ## Output:
 
 <img width="908" height="224" alt="Screenshot 2026-02-19 114357" src="https://github.com/user-attachments/assets/ada81bba-31cb-4bf4-9ccb-a69ed8a27c6b" />
